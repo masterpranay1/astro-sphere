@@ -47,7 +47,7 @@ const Features = () => {
       <div className="flex flex-col md:flex-row gap-16 mx-auto my-32">
         <div className="border-orange-400 border-4 p-8 py-16 rounded-2xl w-full lg:w-96 flex justify-center items-center text-xl cursor-pointer">
           <h2 className="text-white text-2xl hover:text-orange-400 hover:-translate-y-1 transition-all text-center uppercase font-bold">
-            Horoscopes
+            <Link href="/horoscope">Today's Horoscope</Link>
           </h2>
         </div>
 
