@@ -13,7 +13,7 @@ const Hero = () => {
       </h1>
 
       <p className="mx-auto text-5xl md:text-6xl text-white font-extrabold w-2/3 text-center mt-24 md:mt-32">
-        India's Number <span className="text-orange-400">1</span> Astrology
+        India&apos;s Number <span className="text-orange-400">1</span> Astrology
         Platform
         <span className="text-orange-400">.</span> Try it now
         <span className="text-orange-400"> !</span>
@@ -47,7 +47,7 @@ const Features = () => {
       <div className="flex flex-col md:flex-row gap-16 mx-auto my-32">
         <div className="border-orange-400 border-4 p-8 py-16 rounded-2xl w-full lg:w-96 flex justify-center items-center text-xl cursor-pointer">
           <h2 className="text-white text-2xl hover:text-orange-400 hover:-translate-y-1 transition-all text-center uppercase font-bold">
-            <Link href="/horoscope">Today's Horoscope</Link>
+            <Link href="/horoscope">Today&apos;s Horoscope</Link>
           </h2>
         </div>
 

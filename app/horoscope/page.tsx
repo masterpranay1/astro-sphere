@@ -74,7 +74,7 @@ const HoroscopePage = () => {
           Astrosphere
         </h1>
 
-        <h2 className="text-white text-4xl font-bold my-12 ml-4">Today's Horoscope</h2>
+        <h2 className="text-white text-4xl font-bold my-12 ml-4">Today&apos;s Horoscope</h2>
 
         {zodiacSigns.map((sign, index) => (
           <ZodiacSignHoroScope
